@@ -3,7 +3,7 @@
 body {
   margin: 0;
   font-family:'Rajdhani', sans-serif;
-  background: #f7f7f7;
+  background: #a8ec0a48;
 }
 header {
   background: #fff;
@@ -25,6 +25,7 @@ nav a {
 nav h1 {
   text-transform: uppercase;
   line-height: 1em;
+  font-size: 2.5em;
 }
 nav h1 div:first-child {
   font-weight: 800;
