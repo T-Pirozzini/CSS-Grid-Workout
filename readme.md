@@ -1,4 +1,4 @@
-# :man_technologist: Grid Workout
+# :paintbrush: Grid Workout
 
 Experimenting with grid website templates.
 1. Masonry Style
@@ -9,7 +9,7 @@ Experimenting with grid website templates.
 
 ### 1. MASONRY
 
-![masonry-home]()
+![masonry-home](https://github.com/T-Pirozzini/CSS-Grid-Workout/blob/main/Masonry%20Style/img/Home.png?raw=true)
 
 ## Code Tutorial:
 
