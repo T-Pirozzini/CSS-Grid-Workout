@@ -15,4 +15,54 @@ ul , li {
 }
 header {
   grid-column: span 3;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+}
+nav {
+  padding: 30px;
+  border-right: 1px solid #ddd;
+}
+nav li {
+  text-decoration: underline;
+}
+article {
+  padding: 30px;
+}
+article h2 {
+  font-size: 3.5em;  
+  text-align: center;
+}
+article img {
+  max-width: 100%;
+  height: auto;
+}
+article p {
+  margin-top: 30px;
+  line-height: 2em;
+  color: #777;
+}
+aside {
+  padding: 30px;
+  border-left: 1px solid #ddd;
+}
+footer {
+  grid-column: span 3;
+  text-align: center;
+  border-top: 1px solid #ddd;
+  padding: 30px;
+}
+
+/* responsive */
+@media screen and (max-width: 1200px) {
+  nav {
+    grid-column: span 3;
+    border-right: 0;
+    border-bottom: 1px solid #777;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;    
+  }
+  nav p {    
+    display: none;
+  }
 }
