@@ -12,9 +12,12 @@ Experimenting with grid website templates.
 ![masonry-home](https://github.com/T-Pirozzini/CSS-Grid-Workout/blob/main/Masonry%20Grid/img/Home.png?raw=true)
 
 ### 2. HOLY GRAIL
-![holygrail-desktop]()
-![holygrail-tablet]()
-![holygrail-mobile]()
+#### Desktop
+![holygrail-desktop](https://github.com/T-Pirozzini/CSS-Grid-Workout/blob/main/Holy%20Grail%20Grid/img/desktop.png?raw=true)
+#### Tablet
+![holygrail-tablet](https://github.com/T-Pirozzini/CSS-Grid-Workout/blob/main/Holy%20Grail%20Grid/img/tablet.png?raw=true)
+#### Mobile
+![holygrail-mobile](https://github.com/T-Pirozzini/CSS-Grid-Workout/blob/main/Holy%20Grail%20Grid/img/mobile.png?raw=true)
 
 ## Code Tutorial:
 
