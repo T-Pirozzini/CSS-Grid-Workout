@@ -22,8 +22,12 @@ nav {
   padding: 30px;
   border-right: 1px solid #ddd;
 }
+nav p {
+  font-size: 1.5em;
+}
 nav li {
   text-decoration: underline;
+  line-height: 2em;
 }
 article {
   padding: 30px;
@@ -64,5 +68,23 @@ footer {
   }
   nav p {    
     display: none;
+  }
+  article {
+    grid-column: span 2;
+  }
+  aside {
+    padding: 16px;
+  }
+}
+@media screen and (max-width: 980px) {
+  nav, article, aside {
+    grid-column: span 3;
+  }
+  aside {
+    border-left: 0;
+    border-top: 1px solid #ddd
+  }
+  article h2 {
+    font-size: 2.5em;
   }
 }
