@@ -38,5 +38,18 @@ main img {
   border-radius: 6px;
 }
 main .welcome {
-  grid-column: span 6;
+  grid-column: 8 / span 5;
+}
+main > h2 {
+  grid-column: span 12;
+  text-align: center;
+  font-size: 1.5em;
+  padding-top: 20px;
+}
+main .card {
+  grid-column: span 4;
+  background: #fff;
+  padding: 10px;
+  border-radius: 6px;
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.3)
 }
