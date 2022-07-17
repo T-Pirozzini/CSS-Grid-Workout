@@ -14,7 +14,7 @@ Experimenting with grid website templates.
 
 ### 2. HOLY GRAIL
 #### Desktop
-![holygrail-desktop](https://github.com/T-Pirozzini/CSS-Grid-Workout/blob/main/Holy%20Grail%20Grid/img/desktop.png?raw=true)
+![holygrail-desktop](https://github.com/T-Pirozzini/CSS-Grid-Workout/blob/main/Holy%20Grail%20Grid/img/desktop2.png?raw=true)
 #### Tablet
 ![holygrail-tablet](https://github.com/T-Pirozzini/CSS-Grid-Workout/blob/main/Holy%20Grail%20Grid/img/tablet.png?raw=true)
 #### Mobile
