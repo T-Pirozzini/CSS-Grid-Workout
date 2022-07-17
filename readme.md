@@ -31,9 +31,9 @@ Experimenting with grid website templates.
 
 ### 3. 12-COLUMN
 #### Desktop
-![12-column-desktop]()
+![12-column-desktop](https://github.com/T-Pirozzini/CSS-Grid-Workout/blob/main/12-Col%20Grid/img/desktop.png?raw=true)
 #### Mobile
-![12-column-mobile]()
+![12-column-mobile](https://github.com/T-Pirozzini/CSS-Grid-Workout/blob/main/12-Col%20Grid/img/mobile.png?raw=true)
 
 ## Code Tutorial:
 
