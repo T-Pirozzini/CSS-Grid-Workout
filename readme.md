@@ -22,11 +22,11 @@ Experimenting with grid website templates.
 
 ### 2. PORTFOLIO
 #### Desktop
-![portfolio-desktop]()
+![portfolio-desktop](https://github.com/T-Pirozzini/CSS-Grid-Workout/blob/main/Portfolio%20Layout/img/desktop.png?raw=true)
 #### Tablet
-![portfolio-tablet]()
+![portfolio-tablet](https://github.com/T-Pirozzini/CSS-Grid-Workout/blob/main/Portfolio%20Layout/img/tablet.png?raw=true)
 #### Mobile
-![portfolio-mobile]()
+![portfolio-mobile](https://github.com/T-Pirozzini/CSS-Grid-Workout/blob/main/Portfolio%20Layout/img/mobile.png?raw=true)
 
 ## Code Tutorial:
 
